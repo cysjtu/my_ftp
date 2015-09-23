@@ -1,6 +1,2 @@
-
-
-¼òµ¥µÄFTP client ºÍ FTP server
-
-
+ç®€å•çš„FTP cline å’Œ FTP server
 
